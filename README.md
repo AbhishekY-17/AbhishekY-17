@@ -1,21 +1,10 @@
 ## Hi there 👋 I'm Abhishek Yadav
 
-🔭 I’m currently working on **AI-driven projects**, including **TripSage**, an AI-powered trip planner, and **ScrapeFlow**, a visual web scraping automation tool.
+🧠 Electronics and Communication Student at IIIT Pune 
+⚒️ I build SaaS projects that streamline workflows, automate tasks, and enhance user experiences.
+🚀 Passionate about Web Development, Machine Learning, and Competitive Programming
 
-🌱 I’m continuously learning and improving my skills in **Machine Learning, Web Development, and Competitive Programming**.
-
-👯 I’m looking to collaborate on **AI-based applications, SaaS platforms, and automation tools**.
-
-🤔 I’m looking for help with **optimizing AI models for real-time decision-making and scalability**.
-
-💬 Ask me about **React, Next.js, Node.js, Prisma, Firebase, Machine Learning, and Competitive Programming**.
-
-📫 How to reach me:
-
-- LinkedIn: [Abhishek Yadav](https://www.linkedin.com/in/abhishek-yadav-618825257/)
-
-⚡ Fun fact: I love solving complex problems, whether it's a tough coding challenge or finding the best way to automate a task! 🚀
-
+⚡ Fun fact: I enjoy automating tasks and optimizing workflows! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-yadav-618825257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.y.mh@gmail.com) 
