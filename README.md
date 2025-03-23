@@ -11,13 +11,8 @@
 💬 Ask me about **React, Next.js, Node.js, Prisma, Firebase, Machine Learning, and Competitive Programming**.
 
 📫 How to reach me:
-- Email: [abhiy.iiitp@gmail.com](mailto:abhiy.iiitp@gmail.com)
-- LinkedIn: [Abhishek Yadav](https://www.linkedin.com/in/abhishek-yadav-618825257/)
-- GitHub: [AbhishekY-17](https://github.com/AbhishekY-17)
-- LeetCode: [AbhiY17](https://leetcode.com/u/AbhiY17/)
-- CodeChef: [abhiy_07](https://www.codechef.com/users/abhiy_07)
 
-😄 Pronouns: He/Him
+- LinkedIn: [Abhishek Yadav](https://www.linkedin.com/in/abhishek-yadav-618825257/)
 
 ⚡ Fun fact: I love solving complex problems, whether it's a tough coding challenge or finding the best way to automate a task! 🚀
 
