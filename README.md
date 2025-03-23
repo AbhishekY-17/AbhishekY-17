@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Abhishek Yadav
 
-🧠 Electronics and Communication Student at IIIT Pune 
-⚒️ I build SaaS projects that streamline workflows, automate tasks, and enhance user experiences.
-🚀 Passionate about Web Development, Machine Learning, and Competitive Programming
+🧠 Electronics and Communication Student at IIIT Pune <br/>
+⚒️ I build SaaS projects that streamline workflows, automate tasks, and enhance user experiences <br/>
+🚀 Passionate about Web Development, Machine Learning, and Competitive Programming <br/>
 
-⚡ Fun fact: I enjoy automating tasks and optimizing workflows! 🚀
+⚡ Fun fact: I enjoy automating tasks and optimizing workflows! 🚀 <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-yadav-618825257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.y.mh@gmail.com) 
